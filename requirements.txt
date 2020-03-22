@@ -2,3 +2,5 @@ aiofiles
 jinja2
 starlette
 uvicorn
+fastai
+aiohttp
